@@ -1,0 +1,33 @@
+h1 {color:black;
+font-weight: bold;
+text-align: center;
+font-size: 26px;
+font-family:arial;
+}
+ol { color:red;
+font-weight: normal;
+text-align: left;
+font-size:16px;
+font-style:italic;
+font-family: Georgia;
+}
+
+img{width: 400px;
+margin-right: 8px;
+img-align: center;
+}
+p{color:grey;
+text-align: center;
+font-size: 20px;
+font-family:Times New Roman;}
+
+h2{font-weight: bold;
+text-align: center;
+font-size: 18px;
+font-family:Georgia;
+color:violet;}
+.r1{color:grey;
+text-align: center;
+font-size: 14px;
+font-family:Times New Roman;}
+span {color:green;}
